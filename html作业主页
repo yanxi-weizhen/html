@@ -1,0 +1,152 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>无标题文档</title>
+<style type="text/css">
+#apDiv1 {
+	position: absolute;
+	width: 961px;
+	height: 218px;
+	z-index: 1;
+	left: 252px;
+	top: 75px;
+	visibility: visible;
+}
+body {
+	text-align: center;
+	font-size: 36px;
+	background-color: #006600;
+}
+#apDiv2 {
+	position: absolute;
+	width: 830px;
+	height: 44px;
+	z-index: 2;
+	left: 289px;
+	top: 325px;
+	visibility: visible;
+}
+#apDiv2 table {
+	font-size: 16px;
+	font-family: "宋体";
+}
+#apDiv2 table tr td {
+	font-family: "宋体";
+}
+#apDiv3 {
+	position: absolute;
+	width: 231px;
+	height: 152px;
+	z-index: 3;
+	left: 278px;
+	top: 398px;
+	visibility: visible;
+}
+#apDiv4 {
+	position: absolute;
+	width: 200px;
+	height: 145px;
+	z-index: 4;
+	left: 601px;
+	top: 402px;
+	visibility: visible;
+}
+#apDiv5 {
+	position: absolute;
+	width: 213px;
+	height: 140px;
+	z-index: 5;
+	left: 911px;
+	top: 406px;
+	visibility: visible;
+}
+#apDiv3 table tr td {
+	color: #00FFFF;
+	font-family: "宋体";
+	font-size: 16px;
+}
+#apDiv4 table tr td {
+	color: #00FFFF;
+	font-family: "宋体";
+	font-size: 16px;
+}
+#apDiv5 table tr td {
+	color: #00FFFF;
+	font-family: "宋体";
+}
+#apDiv1 table tr td {
+	font-family: "宋体";
+}
+#body {
+	font-family: "宋体";
+}
+a:link {
+	color: #FF3300;
+}
+a:visited {
+	color: #CCCC66;
+}
+</style>
+<script type="text/javascript">
+function MM_showHideLayers() { //v9.0
+  var i,p,v,obj,args=MM_showHideLayers.arguments;
+  for (i=0; i<(args.length-2); i+=3) 
+  with (document) if (getElementById && ((obj=getElementById(args[i]))!=null)) { v=args[i+2];
+    if (obj.style) { obj=obj.style; v=(v=='show')?'visible':(v=='hide')?'hidden':v; }
+    obj.visibility=v; }
+}
+</script>
+</head>
+
+<body>
+<div id="apDiv1">
+  <table width="100%" height="220" border="10" cellspacing="10" bordercolor="#0033FF">
+    <tr>
+      <td width="25%">王淇桢</td>
+      <td width="25%">软件19-3</td>
+      <td width="25%">55</td>
+      <td width="25%">13224681526</td>
+    </tr>
+  </table>
+</div>
+<span id="body">网页设计基础综合设计</span>
+<div id="apDiv2">
+  <table width="100%" height="47">
+    <tr>
+      <td onfocus="MM_showHideLayers('apDiv3','','show','apDiv4','','hide','apDiv5','','hide')">介绍文档</td>
+      <td onfocus="MM_showHideLayers('apDiv3','','hide','apDiv4','','show','apDiv5','','hide')">制作步骤文档</td>
+      <td onfocus="MM_showHideLayers('apDiv3','','hide','apDiv4','','hide','apDiv5','','show')">案例文档</td>
+    </tr>
+  </table>
+</div>
+<p>&nbsp;</p>
+<div id="apDiv3">
+  <table width="100%" height="154">
+    <tr>
+      <td><a href="自我介绍.html">自我介绍</a></td>
+    </tr>
+    <tr>
+      <td><a href="模板网页1.html">此课程的难点</a></td>
+    </tr>
+  </table>
+</div>
+<div id="apDiv4">
+  <table width="100%" height="146">
+    <tr>
+      <td><a href="模板网页2.html">制作的步骤</a></td>
+    </tr>
+  </table>
+</div>
+<div id="apDiv5">
+  <table width="100%" height="141">
+    <tr>
+      <td style="font-size: 16px"><a href="框架1.html">行为案例</a></td>
+    </tr>
+    <tr>
+      <td style="font-size: 16px"><a href="框架2.html">超链接案例</a></td>
+    </tr>
+  </table>
+</div>
+</body>
+</html>
